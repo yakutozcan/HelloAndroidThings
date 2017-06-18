@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/haydut/.android/build-cache/69cfd6386c7d5929a7d7f4b0bf7f62203e219b3f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/haydut/AndroidStudioProjects/HelloThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a65917b487a98a67b3f72cbf145c374cae4f5dab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/haydut/.android/build-cache/be34fbf57f52828efa4ebdfdf98d5a555c122637/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/haydut/AndroidStudioProjects/HelloThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3182aee17509f6fd5f6085a78412be7bfbd8614c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/haydut/AndroidStudioProjects/HelloThings/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cbbf24f8737943e025c388fc9e895d32f9c61cc0">
+        <dex dex="/home/haydut/AndroidStudioProjects/HelloThings/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7e00056f17e4955640b1b99602f8155fae8e60a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/haydut/.android/build-cache/f68bcbfd5f23de636e4544987796b5d31113c79e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/haydut/AndroidStudioProjects/HelloThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70c940eb51de613eeb7bf0ee11af72154b5d7d08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/haydut/AndroidStudioProjects/HelloThings/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/haydut/AndroidStudioProjects/HelloThings/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bbf3296692c55b79075e18d93927e084e369ca58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/haydut/.android/build-cache/447c79d9edf18735ef4288f27bf49194de7b92db/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/haydut/AndroidStudioProjects/HelloThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70aa869ebb534fadf3369bc5d090a1e0e7b9f74a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/haydut/.android/build-cache/f343a07877a844a2ff195bd36b6fef6a7e3d4aef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/haydut/AndroidStudioProjects/HelloThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9004ad14d8a17b7e72ffff426208c48e1ec485a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/haydut/.android/build-cache/f73cf9ad1bac68468504bd51bfa1bedddaead30d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/haydut/AndroidStudioProjects/HelloThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a821d59b536710fe4fd51ad8df7835e09e598a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/haydut/.android/build-cache/bf1caf5c84277e5fa849fd9f827233a09d2d3a62/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/haydut/AndroidStudioProjects/HelloThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a3c98de0f698d6de792ffb0a14c06714f7876c89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/haydut/.android/build-cache/c5498e5bf91035770008caa26fef3f2bb238bcd4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/haydut/AndroidStudioProjects/HelloThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01429df712ed4afbd9380d95baaf8bd5c39e6edb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/haydut/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/haydut/AndroidStudioProjects/HelloThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_1746fc0e0d569dccdbd0496871ec0ee7f2daaeaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/haydut/.android/build-cache/96ef46f28960c527fb94d4057ebbbc565cffc43d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/haydut/AndroidStudioProjects/HelloThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_274807e3d13e33946ab99d6c4344239ccc8c9421/classes.dex" />
+    </item>
+
+</items>
